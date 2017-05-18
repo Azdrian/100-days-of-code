@@ -3,9 +3,9 @@
 ### Day 1: May 1, 2017 (
 ##### 
 
-**Today's Progress**: I read a few pages the YDKJS series book 1 Up and going JS.
+**Today's Progress**: I read a few pages of the YDKJS series book 1 Up and going JS.
 
-**Thoughts:** This is the second time i've read
+**Thoughts:** I've reads the first three books of  the YDKJS series before so re-reading it makes the concepts easier to digest
 
 **Link to work:** []()
 
